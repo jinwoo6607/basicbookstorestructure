@@ -4,6 +4,8 @@
 개념적 ERD (Entity-Relationship Diagram)란?
 데이터베이스 설계에서 데이터 간의 관계와 구조를 시각적으로 표현한 다이어그램이에요.
 ![스크린샷 2025-05-29 103902](https://github.com/user-attachments/assets/bee9acc6-d922-4130-912b-9f33e903de0b)
+![스크린샷 2025-05-29 111247](https://github.com/user-attachments/assets/9d72f40c-a633-473b-b734-1501cbf246ba)
+
 DBDIAGRAM.IO=https://dbdiagram.io/d/6837ba2cc07db17e77a1cde9
 ![스크린샷 2025-05-29 104506](https://github.com/user-attachments/assets/d29afe65-8f25-4731-998c-fd76f2a9e080)
 ![스크린샷 2025-05-29 105142](https://github.com/user-attachments/assets/91f77020-5676-439f-aef4-a4e21546c686)
