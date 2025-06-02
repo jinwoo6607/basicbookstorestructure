@@ -1,4 +1,5 @@
-[자바발표.pptx](https://github.com/user-attachments/files/20553906/default.pptx)
+
+[자바발표2.pptx](https://github.com/user-attachments/files/20553999/2.pptx)
 
 # basicbookstorestructure (발표)
 # 기본북스토어 구조를 dbdiagram.io DBML(Database Markup Language) 데이터베이스 스키마(구조)정의
