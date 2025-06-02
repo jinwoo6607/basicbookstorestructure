@@ -1,3 +1,5 @@
+[자바발표.pptx](https://github.com/user-attachments/files/20553906/default.pptx)
+
 # basicbookstorestructure (발표)
 # 기본북스토어 구조를 dbdiagram.io DBML(Database Markup Language) 데이터베이스 스키마(구조)정의
 # ERD(Entity Relationship Diagram) 시각화
